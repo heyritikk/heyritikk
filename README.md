@@ -1,6 +1,6 @@
 <h1 align="center"> I'm heyritikk 👋 </h1>
 <h3 align="center">A passionate to Full Stack Blockchain Developer from India</h3>
-<img align="right"alt="coding" weidth="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right"alt="coding" weidth="400" src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611dbvsf45uwxb2i2sc5sf69k4261zxrseza9m0ktd6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyritikk&label=Profile%20views&color=0e75b6&style=flat" alt="heyritikk" /> </p>
